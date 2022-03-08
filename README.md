@@ -20,8 +20,3 @@ The simple code to make `Test Transition` using HTML & CSS.
 
 ## *Author Name*
 [Vikrant](https://github.com/thevkrant)
-
-# 
-<!-- Visit <a href="https://thevkrant.github.io/test-transition/">Here</a> -->
-
-![image]()
