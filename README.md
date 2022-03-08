@@ -10,7 +10,12 @@ The simple code to make `Test Transition` using HTML & CSS.
 - CSS
 
 ### Output Screenshot
-<details><summary><b>Output</b></summary>
+<details><summary><b>Output 1</b></summary>
+  <p align="center">
+    <a href="Outputs/output.png"><img src="https://user-images.githubusercontent.com/85709371/148742228-62e318de-0354-4f4c-9fcc-65dcf1249344.png" alt="output"></a>
+  </p>
+</details>
+<details><summary><b>Output 2</b></summary>
   <p align="center">
     <a href="Outputs/output.png"><img src="https://user-images.githubusercontent.com/85709371/148742228-62e318de-0354-4f4c-9fcc-65dcf1249344.png" alt="output"></a>
   </p>
