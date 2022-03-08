@@ -12,7 +12,7 @@ The simple code to make `Test Transition` using HTML & CSS.
 ### Output Screenshot
 <details><summary><b>Output</b></summary>
   <p align="center">
-    <a href="Outputs/output.png"><img src="https://user-images.githubusercontent.com/85709371/148736885-04558983-1b29-453e-b508-6e862aa91943.png" alt="output"></a>
+    <a href="Outputs/output.png"><img src="https://user-images.githubusercontent.com/85709371/148742228-62e318de-0354-4f4c-9fcc-65dcf1249344.png" alt="output"></a>
   </p>
 </details>
 
@@ -24,4 +24,4 @@ The simple code to make `Test Transition` using HTML & CSS.
 # 
 <!-- Visit <a href="https://thevkrant.github.io/test-transition/">Here</a> -->
 
-![image](https://user-images.githubusercontent.com/85709371/148742228-62e318de-0354-4f4c-9fcc-65dcf1249344.png)
+![image]()
